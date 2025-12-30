@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "だる着のまま迎えに行くよ",
+  "base_artist": "KeeP",
+  "createdAt": "2025-12-30T14:54:20.434501Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "だる着のまま迎えに行くよ",
+      "artist": "KeeP",
+      "has_synced": false,
+      "path": "select/pl_01_だる着のまま迎えに行くよ_KeeP.txt"
+    }
+  ]
+}
